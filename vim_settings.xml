@@ -2,14 +2,76 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558419986600">
+        <mark key="'" line="33" column="31" />
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558417968030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1558418926001">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="47" column="4" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
+      <jump line="33" column="31" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyCDQYNfg3aDXoFbCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>指定</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ci8qKgogKiAKICovCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIIOBg0ODk4LMieaWyoFCjcWPiYLMQWN0aXZpdHkKICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogawogICAgICovCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>指定</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>8</entry>
+        <entry>11</entry>
+        <entry>w</entry>
+        <entry>terminal</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
