@@ -3,7 +3,7 @@
     <property name="created">2019-05-21T09:55:45</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.2.0</property>
-    <property name="modified">2019-05-21T10:25:02</property>
+    <property name="modified">2019-05-21T10:29:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -16,6 +16,11 @@
       <value>
         <option name="FOREGROUND" value="ad00" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5a61ff" />
       </value>
     </option>
   </attributes>
