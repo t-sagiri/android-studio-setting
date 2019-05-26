@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1558838922905">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558615044588">
         <mark key="'" line="11" column="61" />
         <mark key="[" line="11" column="4" />
@@ -10,10 +17,10 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558615141349">
+      <file name="/Dummy.txt" timestamp="1558789106173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558418926001">
+      <file name="/fragment.java" timestamp="1558789796801">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -22,37 +29,49 @@
       <jump line="33" column="31" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
       <jump line="42" column="23" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
       <jump line="11" column="61" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
+      <jump line="31" column="15" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="52" column="5" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHNlZSB7aHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vZ3VpZGUvdG9waWNzL3VpL2xheW91dC9yZWN5Y2xlcnZpZXd9CiAqIEBzZWUge2h0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVzYW1wbGVzL2FuZHJvaWQtUmVjeWNsZXJWaWV3fQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>see</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCDQYNfg3aDXoFbCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ci8qKgogKiAKICovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIIOBg0ODk4LMieaWyoFCjcWPiYLMQWN0aXZpdHkKICovCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICA6NXMK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAvLyAtIGdldCBlbGVtZW50IGZyb20geW91ciBkYXRhc2V0IGF0IHRoaXMgcG9zaXRpb24KICAgICAgICAvLyAtIHJlcGxhY2UgdGhlIGNvbnRlbnRzIG9mIHRoZSB2aWV3IHdpdGggdGhhdCBlbGVtZW50</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFJlcGxhY2UgdGhlIGNvbnRlbnRzIG9mIGEgdmlldyAoaW52b2tlZCBieSB0aGUgbGF5b3V0IG1hbmFnZXIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQHNlZSB7aHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vZ3VpZGUvdG9waWNzL3VpL2xheW91dC9yZWN5Y2xlcnZpZXd9CiAqIEBzZWUge2h0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVzYW1wbGVzL2FuZHJvaWQtUmVjeWNsZXJWaWV3fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogawogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyCDQYNfg3aDXoFbCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ci8qKgogKiAKICovCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>see</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
@@ -65,6 +84,9 @@
         <entry>8</entry>
         <entry>11</entry>
         <entry>terminal</entry>
+        <entry>57</entry>
+        <entry>58,59</entry>
+        <entry>58</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -82,6 +104,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
