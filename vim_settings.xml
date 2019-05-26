@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1558841472250">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="28" column="6" />
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1558844116845">
+        <mark key="'" line="8" column="5" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="63" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558615044588">
         <mark key="'" line="11" column="61" />
@@ -16,9 +16,6 @@
         <mark key="]" line="11" column="6" />
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558789106173">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558789796801">
         <mark key="[" line="0" column="0" />
@@ -35,6 +32,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
       <jump line="42" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="8" column="5" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -44,34 +43,34 @@
         <text>create a new view</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gaW50IINmgVuDXoFFg1qDYoNnkY2QlAo=</text>
+        <text encoding="base64">ICAgIC8vIFByb3ZpZGUgYSByZWZlcmVuY2UgdG8gdGhlIHZpZXdzIGZvciBlYWNoIGRhdGEgaXRlbQogICAgLy8gQ29tcGxleCBkYXRhIGl0ZW1zIG1heSBuZWVkIG1vcmUgdGhhbiBvbmUgdmlldyBwZXIgaXRlbSwgYW5kCiAgICAvLyB5b3UgcHJvdmlkZSBhY2Nlc3MgdG8gYWxsIHRoZSB2aWV3cyBmb3IgYSBkYXRhIGl0ZW0gaW4gYSB2aWV3IGhvbGRlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAtIHJlcGxhY2UgdGhlIGNvbnRlbnRzIG9mIHRoZSB2aWV3IHdpdGggdGhhdCBlbGVtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAtIGdldCBlbGVtZW50IGZyb20geW91ciBkYXRhc2V0IGF0IHRoaXMgcG9zaXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICA6NXMK</text>
+        <text encoding="base64">ICAgIC8vIFJldHVybiB0aGUgc2l6ZSBvZiB5b3VyIGRhdGFzZXQgKGludm9rZWQgYnkgdGhlIGxheW91dCBtYW5hZ2VyKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAvLyAtIGdldCBlbGVtZW50IGZyb20geW91ciBkYXRhc2V0IGF0IHRoaXMgcG9zaXRpb24KICAgICAgICAvLyAtIHJlcGxhY2UgdGhlIGNvbnRlbnRzIG9mIHRoZSB2aWV3IHdpdGggdGhhdCBlbGVtZW50</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBWaWV3kLaQrAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFJlcGxhY2UgdGhlIGNvbnRlbnRzIG9mIGEgdmlldyAoaW52b2tlZCBieSB0aGUgbGF5b3V0IG1hbmFnZXIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgLy8gQ3JlYXRlIG5ldyB2aWV3cyAoaW52b2tlZCBieSB0aGUgbGF5b3V0IG1hbmFnZXIpCgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHNlZSB7aHR0cHM6Ly9kZXZlbG9wZXIuYW5kcm9pZC5jb20vZ3VpZGUvdG9waWNzL3VpL2xheW91dC9yZWN5Y2xlcnZpZXd9CiAqIEBzZWUge2h0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGVzYW1wbGVzL2FuZHJvaWQtUmVjeWNsZXJWaWV3fQo=</text>
+        <text encoding="base64">ICAgIC8vIFByb3ZpZGUgYSByZWZlcmVuY2UgdG8gdGhlIHZpZXdzIGZvciBlYWNoIGRhdGEgaXRlbQogICAgLy8gQ29tcGxleCBkYXRhIGl0ZW1zIG1heSBuZWVkIG1vcmUgdGhhbiBvbmUgdmlldyBwZXIgaXRlbSwgYW5kCiAgICAvLyB5b3UgcHJvdmlkZSBhY2Nlc3MgdG8gYWxsIHRoZSB2aWV3cyBmb3IgYSBkYXRhIGl0ZW0gaW4gYSB2aWV3IGhvbGRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCDQYNfg3aDXoFbCg==</text>
+        <text encoding="base64">ICAgIC8vIFByb3ZpZGUgYSByZWZlcmVuY2UgdG8gdGhlIHZpZXdzIGZvciBlYWNoIGRhdGEgaXRlbQogICAgLy8gQ29tcGxleCBkYXRhIGl0ZW1zIG1heSBuZWVkIG1vcmUgdGhhbiBvbmUgdmlldyBwZXIgaXRlbSwgYW5kCiAgICAvLyB5b3UgcHJvdmlkZSBhY2Nlc3MgdG8gYWxsIHRoZSB2aWV3cyBmb3IgYSBkYXRhIGl0ZW0gaW4gYSB2aWV3IGhvbGRlcgogICAgLyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -92,6 +91,15 @@
         <entry>58</entry>
         <entry>43</entry>
         <entry>27</entry>
+        <entry>35</entry>
+        <entry>25</entry>
+        <entry>25,27y</entry>
+        <entry>25,28d</entry>
+        <entry>25,27d</entry>
+        <entry>ww</entry>
+        <entry>41</entry>
+        <entry>41,42d</entry>
+        <entry>63</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
