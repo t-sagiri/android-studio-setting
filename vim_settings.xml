@@ -10,14 +10,20 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="63" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558615044588">
-        <mark key="'" line="11" column="61" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558846674029">
+        <mark key="'" line="16" column="61" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="22" />
+        <mark key="^" line="68" column="22" />
+        <mark key="." line="68" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1558789796801">
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/AppData.java" timestamp="1558845924369">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+      </file>
+      <file name="/fragment.java" timestamp="1558845120264">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -36,11 +42,11 @@
       <jump line="8" column="5" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DATASET_COUNT</text>
       </register>
       <register name="-" type="4">
-        <text>create a new view</text>
+        <text>DATASET_COUNT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIFByb3ZpZGUgYSByZWZlcmVuY2UgdG8gdGhlIHZpZXdzIGZvciBlYWNoIGRhdGEgaXRlbQogICAgLy8gQ29tcGxleCBkYXRhIGl0ZW1zIG1heSBuZWVkIG1vcmUgdGhhbiBvbmUgdmlldyBwZXIgaXRlbSwgYW5kCiAgICAvLyB5b3UgcHJvdmlkZSBhY2Nlc3MgdG8gYWxsIHRoZSB2aWV3cyBmb3IgYSBkYXRhIGl0ZW0gaW4gYSB2aWV3IGhvbGRlcgo=</text>
@@ -83,7 +89,6 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>8</entry>
         <entry>11</entry>
         <entry>terminal</entry>
         <entry>57</entry>
@@ -100,6 +105,9 @@
         <entry>41</entry>
         <entry>41,42d</entry>
         <entry>63</entry>
+        <entry>q!</entry>
+        <entry>20</entry>
+        <entry>30</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
