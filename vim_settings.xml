@@ -3,9 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1558964626644">
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1559044784920">
         <mark key="'" line="23" column="8" />
+        <mark key="[" line="65" column="33" />
         <mark key="m" line="57" column="19" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558869081291">
         <mark key="'" line="69" column="11" />
@@ -16,7 +20,7 @@
         <mark key="^" line="69" column="11" />
         <mark key="." line="69" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558964406727">
+      <file name="/Dummy.txt" timestamp="1559044463149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/AppData.java" timestamp="1558845924369">
@@ -49,11 +53,11 @@
       <jump line="37" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;# &quot;  + position);</text>
       </register>
       <register name="-" type="4">
-        <text>packageName</text>
+        <text>&quot;# &quot;  + position);</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgVGV4dFZpZXcgdGV4dFZpZXcxOwo=</text>
