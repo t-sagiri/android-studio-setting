@@ -3,22 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1559044784920">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="65" column="33" />
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" timestamp="1559077549953">
+        <mark key="'" line="70" column="5" />
+        <mark key="[" line="3" column="0" />
         <mark key="m" line="57" column="19" />
-        <mark key="]" line="65" column="46" />
-        <mark key="." line="65" column="46" />
-        <mark key="^" line="65" column="46" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="65" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1558869081291">
-        <mark key="'" line="69" column="11" />
-        <mark key="i" line="64" column="8" />
-        <mark key="[" line="69" column="9" />
-        <mark key="m" line="64" column="8" />
-        <mark key="]" line="69" column="11" />
-        <mark key="^" line="69" column="11" />
-        <mark key="." line="69" column="11" />
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" timestamp="1559077612597">
+        <mark key="'" line="19" column="0" />
+        <mark key="i" line="59" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="m" line="59" column="8" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="64" column="11" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1559044463149">
         <mark key="[" line="0" column="0" />
@@ -29,7 +29,14 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1558867780874">
+      <file name="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/AppInfo.java" timestamp="1559316086644">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="27" />
+        <mark key="^" line="63" column="27" />
+        <mark key="." line="63" column="27" />
+      </file>
+      <file name="/fragment.java" timestamp="1559077235453">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -51,74 +58,94 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
       <jump line="69" column="11" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
       <jump line="37" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="55" column="33" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
+      <jump line="66" column="47" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="3" column="15" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="2" column="15" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="70" column="5" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MyAdapter.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/MainActivity.java" />
+      <jump line="16" column="30" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/AppInfo.java" />
+      <jump line="33" column="5" filename="$USER_HOME$/Documents/Android/Test/RecycleView/app/src/main/java/com/test/testrecycleview/AppInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;# &quot;  + position);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3M7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;# &quot;  + position);</text>
+        <text encoding="base64">IGljb247</text>
+      </register>
+      <register name="/" type="4">
+        <text>context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGV4dFZpZXcgdGV4dFZpZXcxOwo=</text>
+        <text encoding="base64">ICAgIC8vIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3M7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBob2xkZXIudGV4dFZpZXcxLnNldFRleHQoIiMgIiAgKyBwb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQXBwbGljYXRpb25JbmZvgr6Cr4KpgueDZoFbg16O5pO+gsWCq4LIgqKXcAogICAgICovCiAgICBwcml2YXRlIFBhY2thZ2VNYW5hZ2VyIG1QbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5uYW1lICE9IG51bGwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFZpZXeQtpCsCgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogbGlzdILJlVyOpoK3gumXdpFmkJQKICAgICAqLwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IERBVEFTRVRfQ09VTlQgPSA2MDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXJlbnQKICAgICAqIEBwYXJhbSB2aWV3VHlwZQogICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5wbS5QYWNrYWdlTWFuYWdlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>context</last-search>
+      <last-offset />
+      <last-pattern>context</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxob2xkZXJcPg==</entry>
+        <entry>conte</entry>
+        <entry>context</entry>
+      </history-search>
       <history-cmd>
-        <entry>35</entry>
-        <entry>25</entry>
-        <entry>25,27y</entry>
-        <entry>25,28d</entry>
-        <entry>25,27d</entry>
-        <entry>ww</entry>
-        <entry>41,42d</entry>
-        <entry>63</entry>
-        <entry>20</entry>
-        <entry>30</entry>
-        <entry>16</entry>
         <entry>37</entry>
-        <entry>24</entry>
         <entry>34</entry>
-        <entry>57</entry>
         <entry>41</entry>
         <entry>3</entry>
         <entry>65</entry>
         <entry>q!</entry>
+        <entry>27d</entry>
+        <entry>57</entry>
+        <entry>67</entry>
+        <entry>19</entry>
+        <entry>21,24d</entry>
+        <entry>13</entry>
+        <entry>29</entry>
+        <entry>11,14d</entry>
+        <entry>24</entry>
+        <entry>32</entry>
+        <entry>28</entry>
+        <entry>5d</entry>
+        <entry>31</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -148,6 +175,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
