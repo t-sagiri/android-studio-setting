@@ -1,5 +1,8 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="LANG" value="ja_JP.UTF-8" />
+    </envs>
     <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
   </component>
 </application>
